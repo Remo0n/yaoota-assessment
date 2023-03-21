@@ -1,0 +1,23 @@
+.commentForm {
+  background-color: #fff;
+  border-radius: 0.25rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+.commentFormFields {
+  margin-bottom: 0.25rem;
+}
+
+.commentFormFields input,
+.commentFormFields textarea {
+  border: none;
+  border-bottom: 1px solid grey;
+  font-size: 0.85rem;
+  padding: 0.25rem 0;
+  width: 99%;
+  font-size: 1.5rem;
+}
+
+.commentFormFields input {
+  height: 3rem;
+}

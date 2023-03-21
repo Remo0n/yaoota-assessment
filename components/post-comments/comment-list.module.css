@@ -1,0 +1,11 @@
+.commentBox {
+  max-width: 65%;
+  color: #fff;
+  background-image: linear-gradient(to bottom left, #008b79, #1180a1);
+  border-radius: 0.875rem;
+  padding: 0.2rem 1rem 2rem;
+  margin: auto;
+}
+.commentCount {
+  color: grey;
+}

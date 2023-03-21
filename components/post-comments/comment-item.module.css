@@ -1,0 +1,10 @@
+.comment {
+  border-top: 0.125rem solid grey;
+}
+.commentBody {
+  font-style: italic;
+  margin-left: 1rem;
+}
+.commentFooter {
+  margin-bottom: 1rem;
+}

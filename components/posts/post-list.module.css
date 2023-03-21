@@ -1,0 +1,10 @@
+.list {
+  width: 90%;
+  max-width: 60rem;
+  margin: 5rem auto;
+  padding: 0;
+}
+
+.footer {
+  display: flex;
+}
